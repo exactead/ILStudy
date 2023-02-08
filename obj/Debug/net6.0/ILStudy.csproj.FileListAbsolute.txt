@@ -1,0 +1,15 @@
+C:\Users\YusukeOno\Source\Repos\ILStudy\bin\Debug\net6.0\ILStudy.exe
+C:\Users\YusukeOno\Source\Repos\ILStudy\bin\Debug\net6.0\ILStudy.deps.json
+C:\Users\YusukeOno\Source\Repos\ILStudy\bin\Debug\net6.0\ILStudy.runtimeconfig.json
+C:\Users\YusukeOno\Source\Repos\ILStudy\bin\Debug\net6.0\ILStudy.dll
+C:\Users\YusukeOno\Source\Repos\ILStudy\bin\Debug\net6.0\ILStudy.pdb
+C:\Users\YusukeOno\Source\Repos\ILStudy\obj\Debug\net6.0\ILStudy.csproj.AssemblyReference.cache
+C:\Users\YusukeOno\Source\Repos\ILStudy\obj\Debug\net6.0\ILStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YusukeOno\Source\Repos\ILStudy\obj\Debug\net6.0\ILStudy.AssemblyInfoInputs.cache
+C:\Users\YusukeOno\Source\Repos\ILStudy\obj\Debug\net6.0\ILStudy.AssemblyInfo.cs
+C:\Users\YusukeOno\Source\Repos\ILStudy\obj\Debug\net6.0\ILStudy.csproj.CoreCompileInputs.cache
+C:\Users\YusukeOno\Source\Repos\ILStudy\obj\Debug\net6.0\ILStudy.dll
+C:\Users\YusukeOno\Source\Repos\ILStudy\obj\Debug\net6.0\refint\ILStudy.dll
+C:\Users\YusukeOno\Source\Repos\ILStudy\obj\Debug\net6.0\ILStudy.pdb
+C:\Users\YusukeOno\Source\Repos\ILStudy\obj\Debug\net6.0\ILStudy.genruntimeconfig.cache
+C:\Users\YusukeOno\Source\Repos\ILStudy\obj\Debug\net6.0\ref\ILStudy.dll
